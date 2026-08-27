@@ -4,7 +4,7 @@
 </p>
 
 <!-- 标题与打字效果 -->
-<h1 align="center">👋 你好，我是 王瑞翰</h1>
+<h1 align="center">👋 你好，我是 王瑞涵</h1>
 <h3 align="center">一名热爱全栈开发的工程师 | 来自中国</h3>
 
 <p align="center">
@@ -27,10 +27,10 @@
 ---
 
 ### 📊 GitHub 战绩统计
-<!-- 下面这行会自动拉取你的真实数据，别改掉 username 参数 -->
+<!-- 下面这行会自动拉取你的真实数据，加了缓存刷新参数 -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wangruihan-king&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangruihan-king&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wangruihan-king&show_icons=true&theme=radical&hide_border=true&cache=0" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangruihan-king&layout=compact&theme=radical&hide_border=true&cache=0" />
 </p>
 
 ---
