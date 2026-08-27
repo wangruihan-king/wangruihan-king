@@ -34,16 +34,6 @@
   <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wangruihan-king&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<!-- 贡献活动图（显示近一年提交热力图） -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangruihan-king&theme=react" />
-</p>
-
-<!-- 成就奖杯（展示获得的荣誉） -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wangruihan-king&theme=radical&row=2&column=4" />
-</p>
-
 ---
 
 ### 📫 联系我
