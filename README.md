@@ -1,6 +1,6 @@
 <!-- 头部横幅（建议去搜一张 1280x300 的风景/代码图替换掉 url） -->
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/abstract-digital-grid-black-background_53876-97647.jpg" width="100%" />
+  <img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy8xOTM0MTk4My05YjI2Y2RkOTM3NjA0NmE4LnBuZw?x-oss-process=image/format,png" width="100%" />
 </p>
 
 <!-- 标题与打字效果 -->
@@ -21,7 +21,7 @@
 ### 🛠️ 技术栈 & 工具
 <p align="center">
   <!-- 去 https://skillicons.dev  ？ 选你会的图标，直接替换下面括号里的参数 -->
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,vue,react,nodejs,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=ai,npm,arduino,raspberrypi,c,cpp,python,html,nodejs,git,linux,docker,github" />
 </p>
 
 ---
@@ -36,5 +36,6 @@
 ---
 
 ### 📫 联系我
-- 邮箱：你的邮箱@example.com
-- 博客/主页：[你的个人链接]
+- 邮箱：wangruihan12345678@qq.com
+- QQ:762183576
+- 博客/主页：none
