@@ -1,6 +1,6 @@
 <!-- 头部横幅（建议去搜一张 1280x300 的风景/代码图替换掉 url） -->
 <p align="center">
-  <img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy8xOTM0MTk4My05YjI2Y2RkOTM3NjA0NmE4LnBuZw?x-oss-process=image/format,png" width="100%" />
+  <img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy8xOTM0MTk4My05YjI2Y2RkOTM3NjA0NmE4LnBuZw?x-oss-process=image/format,png" width="80%" />
 </p>
 
 <!-- 标题与打字效果 -->
